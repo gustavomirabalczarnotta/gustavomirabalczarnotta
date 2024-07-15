@@ -1,11 +1,43 @@
-## Olá 👋
+<h3 align="left">Olá 👋! Meu nome é Gustavo e sou estudante de engenharia de controle e automação</h3>
 
+###
 
-about me: 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gustavomirabalczarnotta&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gustavomirabalczarnotta&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-- 🔭 Atualmente não estou trabalhando
-- 🌱 Atualmente estou aprendendo muito na faculdade
-- 🤔 Estou procurando ajuda com meus projetos
-- 💬 Pergunte-me sobre o que quiser 
-- 📫 Como entrar em contato comigo: gustavomirabalczarnotta@alunos.utfpr.edu.br
-- ⚡ Curiosidade: escoteiro
+###
+
+<img align="right" height="125" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDd5ZzdoY3ltYWx1NHFsZ3NnN2kyN25wanFpNW5wbWF4MDE3OXA0byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PfhMsDmb7tHd6/giphy.gif"  />
+
+###
+
+<div align="left">
+  <img src="https://cdn.simpleicons.org/arduino/00979D" height="30" alt="arduino logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=autocad" height="30" alt="autocad logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/python/3776AB" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="30" alt="canva logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/trello/0052CC" height="30" alt="trello logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/html5/E34F26" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
+</div>
+
+###
