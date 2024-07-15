@@ -9,5 +9,4 @@ Here are some ideas to get you started:
 - 🤔 Estou procurando ajuda com meus projetos
 - 💬 Pergunte-me sobre o que quiser 
 - 📫 Como entrar em contato comigo: gustavomirabalczarnotta@alunos.utfpr.edu.br
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Curiosidade: escoteiro
