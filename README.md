@@ -1,8 +1,7 @@
-## Hi there 👋
+## Olá 👋
 
 
-
-Here are some ideas to get you started:
+about me: 
 
 - 🔭 Atualmente não estou trabalhando
 - 🌱 Atualmente estou aprendendo muito na faculdade
