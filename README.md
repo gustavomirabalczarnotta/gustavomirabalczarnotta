@@ -31,15 +31,21 @@
 
 ###
 
-## - 🌐 sobre mim
+##- 🌐 sobre mim
 
 ###
 
 <img align="left" height="126" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDd5ZzdoY3ltYWx1NHFsZ3NnN2kyN25wanFpNW5wbWF4MDE3OXA0byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PfhMsDmb7tHd6/giphy.gif"  />
 
-<p align="center">Olá eu sou o Gustavo, tenho 20 anos, estou estudando na universidade tecnologica do Paraná, porém antes estudei na etec Abdias do nascimento no curso de Desenvolvimento de Sistemas, onde aprendi metade das minha habilidades como arduino, python, html, css e trello, outras habilidades como liderança, criatividade, trabalho em equipe, foi o escotismo que me ajudou</p>
+<p align="center"> Olá eu sou o Gustavo, tenho 20 anos, estou estudando na universidade tecnologica do Paraná, porém antes estudei na etec Abdias do nascimento no curso de Desenvolvimento de Sistemas, onde aprendi metade das minha habilidades como arduino, python, html, css e trello, outras habilidades como liderança, criatividade, trabalho em equipe, foi o escotismo que me ajudou</p>
 
 ###
 
+</br>
+</br>
+
+## - 🎵 Música
 
 ###
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=21l5nue75nqtdipiydeurg74y&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
