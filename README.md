@@ -52,8 +52,5 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/gustavomirabalczarnotta/gustavomirabalczarnotta/output/snake.svg" alt="Snake animation" />
 
 ###
