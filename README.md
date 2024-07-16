@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="125" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDd5ZzdoY3ltYWx1NHFsZ3NnN2kyN25wanFpNW5wbWF4MDE3OXA0byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PfhMsDmb7tHd6/giphy.gif"  />
+## - 🔥 Habilidades
 
 ###
 
@@ -31,6 +31,10 @@
 
 ###
 
+## - 🌐 redes sociais
+
+###
+
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
@@ -39,5 +43,17 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
 </div>
+
+###
+
+<img align="left" height="126" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDd5ZzdoY3ltYWx1NHFsZ3NnN2kyN25wanFpNW5wbWF4MDE3OXA0byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PfhMsDmb7tHd6/giphy.gif"  />
+
+<p align="center">Olá eu sou o Gustavo, tenho 20 anos, estou estudando na universidade tecnologica do Paraná, porém antes estudei na etec Abdias do nascimento no curso de Desenvolvimento de Sistemas, onde aprendi metade das minha habilidades como arduino, python, html, css e trello, outras habilidades como liderança, criatividade, trabalho em equipe, foi o escotismo que me ajudou</p>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/gustavomirabalczarnotta/gustavomirabalczarnotta/output/snake.svg" alt="Snake animation" />
 
 ###
