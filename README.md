@@ -31,7 +31,7 @@
 
 ###
 
-##- 🌐 sobre mim
+## - 🌐 sobre mim
 
 ###
 
