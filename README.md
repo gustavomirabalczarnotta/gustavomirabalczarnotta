@@ -27,6 +27,10 @@
   <img src="https://cdn.simpleicons.org/html5/E34F26" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"  />
+   <img src="https://cdn.simpleicons.org/c/E34F26" height="30" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/c++/E34F26" height="30" alt="c++ logo"  />
+  <img width="12" />
 </div>
 
 ###
